@@ -271,7 +271,7 @@ class RateLimitedAPI(UniversalAPI):
         return result
 ```
 
-## 🏆 Why This Goes Viral
+## 🏆 Best For
 
 1. **Solves Real Pain** - Every developer deals with API fragmentation
 2. **Dead Simple** - One interface for everything
@@ -293,6 +293,24 @@ Contributions welcome! Please:
 
 MIT License - feel free to use this in your projects!
 
+## 💝 Support This Project
+
+**Love API Unifier?** Help keep it maintained and growing!
+
+### 🪙 Cryptocurrency Donations
+- **Bitcoin (BTC)**: bc1q9l7jwd5dunq5xyuu4prxa3lhttrdzv6n3yma4c
+- **Ethereum (ETH)**: 0x80F432A8Ab4Dc4A9e25EB1EB4d94D575DF2654FF 
+- **USDT (TRC20)**: TPr5ZTdZEaHUMuKnSvXSupMYkEPWhPfNqW
+- **Solana (SOL)**: 
+- **KASPA (KAS)**:
+kaspa:qppu3nnkj856gg5emw3t2wqms4w9vpsxc7lxtvdzfknjgm4xej9kqk6v45q4y
+
+
+### 🌟 Free Ways to Support
+- ⭐ [Star the repository](https://github.com/mrsuicidefox/api-unifier)
+- 🐦 [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20API%20Unifier%20-%20Make%20all%20APIs%20work%20the%20same%20way!%20https://github.com/mrsuicidefox/api-unifier)
+- 📝 [Contribute to the project](https://github.com/mrsuicidefox/api-unifier/blob/main/CONTRIBUTING.md)
+
 ## 🌟 Show Some Love
 
 If this project helped you, please:
@@ -306,6 +324,6 @@ If this project helped you, please:
 
 **Made with ❤️ by developers who hate API fragmentation**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/api-unifier?style=social)](https://github.com/yourusername/api-unifier)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/api-unifier?style=social)](https://github.com/yourusername/api-unifier)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/api-unifier)](https://github.com/yourusername/api-unifier/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mrsuicidefox/api-unifier?style=social)](https://github.com/mrsuicidefox/api-unifier)
+[![GitHub forks](https://img.shields.io/github/forks/mrsuicidefox/api-unifier?style=social)](https://github.com/mrsuicidefox/api-unifier)
+[![GitHub issues](https://img.shields.io/github/issues/mrsuicidefox/api-unifier)](https://github.com/mrsuicidefox/api-unifier/issues)
