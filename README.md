@@ -301,7 +301,7 @@ MIT License - feel free to use this in your projects!
 - **Bitcoin (BTC)**: bc1q9l7jwd5dunq5xyuu4prxa3lhttrdzv6n3yma4c
 - **Ethereum (ETH)**: 0x80F432A8Ab4Dc4A9e25EB1EB4d94D575DF2654FF 
 - **USDT (TRC20)**: TPr5ZTdZEaHUMuKnSvXSupMYkEPWhPfNqW
-- **Solana (SOL)**: 
+- **Solana (SOL)**: CKwWMrZF7DKszy6WpKM87afuFn5x7vMaSdNSAwhU5iPS
 - **KASPA (KAS)**:
 kaspa:qppu3nnkj856gg5emw3t2wqms4w9vpsxc7lxtvdzfknjgm4xej9kqk6v45q4y
 
